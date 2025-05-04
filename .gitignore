@@ -1,0 +1,6 @@
+debug/
+target/
+result/**/*
+
+# wasm build by Zed
+extension.wasm

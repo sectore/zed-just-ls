@@ -1,0 +1,12 @@
+id = "just-ls"
+name = "Just Language Server"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jens Krause"]
+description = "Language server for just."
+repository = "https://github.com/sectore/zed-just-ls"
+
+[language_servers.just-ls]
+name = "Just Language Server"
+language = "Just"
+languages = ["Just", "justfile"]
