@@ -1,9 +1,9 @@
 id = "just-ls"
 name = "Just Language Server"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
-authors = ["Jens Krause"]
-description = "Language server for just."
+authors = ["Jens Krause <47693+sectore@users.noreply.github.com>"]
+description = "Language server for just"
 repository = "https://github.com/sectore/zed-just-ls"
 
 [language_servers.just-ls]
