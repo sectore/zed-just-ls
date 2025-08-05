@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.2 - 2025-08-05
+
+### Changes
+
+- latest `zed_extension_api` `v0.6.0` [#5](https://github.com/sectore/zed-just-ls/pull/5)
+
 ## v0.1.1 - 2025-05-10
 
 ### Fixes
