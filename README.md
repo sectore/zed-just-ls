@@ -16,7 +16,7 @@ Note: In addition [zed-just](https://zed.dev/extensions?query=just) extension is
 ### Requirements
 
 - [Rust](https://www.rust-lang.org/tools/install)
-- [`wasm32-wasip1`](https://doc.rust-lang.org/nightly/rustc/platform-support/wasm32-wasip1.html) target
+- [`wasm32-wasip2`](https://doc.rust-lang.org/nightly/rustc/platform-support/wasm32-wasip2.html) target
 - [zed-just](https://zed.dev/extensions?query=just) extension (see `Note` in chapter [Installation](./#installation))
 
 ### Steps
