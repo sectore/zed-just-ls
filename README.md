@@ -1,3 +1,8 @@
+> [!NOTE]
+> _(Date 26/01/2026)_
+>
+> Since [zed-just](https://github.com/jackTabsCode/zed-just) extension has added its own [`just-lsp` support](https://github.com/jackTabsCode/zed-just/pull/25), `zed-just-ls` extension is not needed to be installed anymore. This repository will be archived today.
+
 # zed-just-ls
 
 [Zed](https://zed.dev) extension for [`just-lsp`](https://github.com/terror/just-lsp).
